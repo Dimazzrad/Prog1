@@ -1,0 +1,2 @@
+https://github.com/coder-chekunkov/Article-RecyclerView/blob/main/README.md
+https://developer.alexanderklimov.ru/android/kotlin/list.php
